@@ -1,0 +1,6 @@
+{
+  "name": "REACT-ID | Human Presence Verification API",
+  "description": "Autonomous cryptographic human presence verification and temporal cross-coupling engine against deepfakes, synthetic avatars, and bots.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
